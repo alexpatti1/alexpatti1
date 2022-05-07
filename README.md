@@ -2,7 +2,7 @@
 
 - 🔭 Estou desempregado atualmente
 - 🌱 Gosto de estudar. Estudo algumas linguagens de  programação:  Java, Kotlin, Python e JavaScript
-- 😁 Sou uma pessoa curiosa e estou conhecendo também um pouco de Azure, MySql e Salesforce
+- 😁 Sou uma pessoa curiosa, e estou estudando também um pouco de: Azure, MySql e Salesforce
 
 <div align="center">
   <a href="https://github.com/alexpatti1">
