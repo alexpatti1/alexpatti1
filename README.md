@@ -1,7 +1,7 @@
 ### Olá, meu nome é Alexander Patti 👋
 
-- 🌱 Gosto de estudar. Estudo algumas linguagens de  programação:  Java, Kotlin, Python e JavaScript. 
-- 😁 Sou uma pessoa curiosa, e estou estudando também um pouco de: Azure, MySql, Salesforce e o framework Flutter.
+- 🌱 Gosto de estudar. Estudo algumas linguagens de  programação: Java, Kotlin, Python, C# e JavaScript. 
+- 😁 Sou uma pessoa curiosa, e estou estudando também um pouco de: Aws, Azure, MySql, Salesforce e o framework Flutter.
 
 <div align="center">
   <a href="https://github.com/alexpatti1">
